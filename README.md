@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ManishaNath
-- 👀 I’m Ethereum blockchain developer
-- 💞️ I’m looking to collaborate on blockchain projects...
-- 📫 How to reach me:manishagnath30@gmail.com...
+- 👀 I’m an Ethereum blockchain developer
+
 
 <!---
 ManishaNath/ManishaNath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
